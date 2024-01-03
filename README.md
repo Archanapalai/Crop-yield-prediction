@@ -5,4 +5,5 @@ Robust data processing,
 Diverse ML models,
 Weather and soil analysis,
 Scalable for various crops
+
 Disclaimer: Consider local conditions and expert advice for practical decision-making. 🌾📊
